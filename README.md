@@ -10,6 +10,8 @@ The code and storytelling is in the file [meta_analysis.ipynb](https://github.co
 
 **We suggest opening the project in Google Colaboratory for a better experience.**
 
+---
+
 The authors:
 * Kacper [@KacperKaszuba0608](https://github.com/KacperKaszuba0608)
 * Karol [@karolror](https://github.com/karolror)
